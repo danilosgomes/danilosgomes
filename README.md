@@ -1,4 +1,5 @@
-### Olá, seja bem vinde ao meu perfil! Eu sou o Danilo Gomes
+### Olá, seja bem vindo ao meu perfil! 
+### Eu sou o Danilo Gomes
 
   - Estou estudando HTML5 e CSS3
   - Graduando em Sistemas de Informação

@@ -4,6 +4,7 @@
   - Estou estudando HTML5 e CSS3
   - Graduando em Sistemas de Informação
   - Novo no GitHub
+  - Front end
 
   ##
   

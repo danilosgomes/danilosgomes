@@ -3,7 +3,8 @@
 
   - Graduando em Sistemas de Informação
   - Estou estudando JavaScript e React
-  - Front end
+  - Frontend Developer
+  - UX/UI Designer
 
 ###
 

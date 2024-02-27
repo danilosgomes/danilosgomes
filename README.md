@@ -31,5 +31,5 @@
 <div>
 <!--<a href="https://instagram.com/danilosggomes_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 -->
-<a href="https://linkedin.com/in/gomesdanilogomes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<a href="https://linkedin.com/in/gomesodanilo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
